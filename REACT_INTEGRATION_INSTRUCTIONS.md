@@ -171,8 +171,8 @@ This produces:
 
 ```bash
 # From your twitter-frontend directory
-cp dist/rubiks-listener.js /Users/taydenwhite/taydenwhite.github.io/static/js/
-cp dist/rubiks-listener.css /Users/taydenwhite/taydenwhite.github.io/static/js/
+cp dist/rubiks-listener.js /Users/jakecardwell/jakecardwell.github.io/static/js/
+cp dist/rubiks-listener.css /Users/jakecardwell/jakecardwell.github.io/static/js/
 ```
 
 **Result:** Hugo can now serve these at `/js/rubiks-listener.js` and `/js/rubiks-listener.css`
@@ -223,7 +223,7 @@ const io = socketIo(server, {
   cors: {
     origin: [
       'http://localhost:1313',           // Hugo dev server
-      'https://taydenwhite.github.io'    // Production site
+      'https://jakecardwell.github.io'    // Production site
     ],
     methods: ['GET', 'POST'],
     credentials: true
@@ -246,7 +246,7 @@ const io = socketIo(server, {
 
 2. **Start Hugo server:**
    ```bash
-   cd /Users/taydenwhite/taydenwhite.github.io
+   cd /Users/jakecardwell/jakecardwell.github.io
    hugo server
    ```
 
@@ -281,7 +281,7 @@ const io = socketIo(server, {
 ### Push to GitHub
 
 ```bash
-cd /Users/taydenwhite/taydenwhite.github.io
+cd /Users/jakecardwell/jakecardwell.github.io
 git add .
 git commit -m "Add Rubik's Cube Listener integration"
 git push origin main
@@ -323,11 +323,11 @@ cd path/to/twitter-frontend
 npm run build
 
 # Copy to Hugo
-cp dist/rubiks-listener.js /Users/taydenwhite/taydenwhite.github.io/static/js/
-cp dist/rubiks-listener.css /Users/taydenwhite/taydenwhite.github.io/static/js/
+cp dist/rubiks-listener.js /Users/jakecardwell/jakecardwell.github.io/static/js/
+cp dist/rubiks-listener.css /Users/jakecardwell/jakecardwell.github.io/static/js/
 
 # Test locally (if Hugo server not running)
-cd /Users/taydenwhite/taydenwhite.github.io
+cd /Users/jakecardwell/jakecardwell.github.io
 hugo server
 ```
 
@@ -358,7 +358,7 @@ hugo server
 │                                     │
 │  - Express + Socket.io              │
 │  - Emits 'tweet' events             │
-│  - CORS allows taydenwhite.github.io│
+│  - CORS allows jakecardwell.github.io│
 └─────────────────────────────────────┘
 ```
 

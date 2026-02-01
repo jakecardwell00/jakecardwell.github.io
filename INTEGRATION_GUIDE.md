@@ -114,8 +114,8 @@ Copy the built files to your Hugo static directory:
 
 ```bash
 # From your twitter-frontend directory
-cp dist/rubiks-listener.js /Users/taydenwhite/taydenwhite.github.io/static/js/
-cp dist/rubiks-listener.css /Users/taydenwhite/taydenwhite.github.io/static/js/
+cp dist/rubiks-listener.js /Users/jakecardwell/jakecardwell.github.io/static/js/
+cp dist/rubiks-listener.css /Users/jakecardwell/jakecardwell.github.io/static/js/
 ```
 
 ## Step 4: Use the Shortcode in Your Hugo Page
@@ -150,7 +150,7 @@ const io = require('socket.io')(server, {
   cors: {
     origin: [
       'http://localhost:1313',
-      'https://taydenwhite.github.io'
+      'https://jakecardwell.github.io'
     ],
     methods: ['GET', 'POST']
   }

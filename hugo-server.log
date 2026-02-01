@@ -1,6 +1,6 @@
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
-Watching for changes in /Users/taydenwhite/taydenwhite.github.io/{assets,content,layouts,package.json,postcss.config.js,static}
-Watching for config changes in /Users/taydenwhite/taydenwhite.github.io/hugo.yaml, /Users/taydenwhite/taydenwhite.github.io/go.mod
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+Watching for changes in /Users/jakecardwell/jakecardwell.github.io/{assets,content,layouts,package.json,postcss.config.js,static}
+Watching for config changes in /Users/jakecardwell/jakecardwell.github.io/hugo.yaml, /Users/jakecardwell/jakecardwell.github.io/go.mod
 Start building sites … 
 hugo v0.150.0+extended+withdeploy darwin/arm64 BuildDate=2025-09-08T13:01:12Z VendorInfo=brew
 
@@ -37,7 +37,7 @@ Total in 28 ms
 
 Change of config file detected, rebuilding site (#2).
 2025-11-08 17:10:42.839 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 908 ms
 
@@ -55,25 +55,25 @@ Total in 1 ms
 
 Change of config file detected, rebuilding site (#5).
 2025-11-08 17:15:32.340 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 930 ms
 
 Change of config file detected, rebuilding site (#6).
 2025-11-08 17:15:40.340 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 2664 ms
 
 Change of config file detected, rebuilding site (#7).
 2025-11-08 17:15:52.339 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 2618 ms
 
 Change of config file detected, rebuilding site (#8).
 2025-11-08 17:16:43.840 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 1062 ms
 
@@ -105,7 +105,7 @@ Syncing /images/home-background.jpg to /
 
 Change of config file detected, rebuilding site (#15).
 2025-11-08 17:24:53.841 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 968 ms
 
@@ -135,13 +135,13 @@ Total in 19 ms
 
 Change of config file detected, rebuilding site (#20).
 2025-11-08 17:50:57.329 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 952 ms
 
 Change of config file detected, rebuilding site (#21).
 2025-11-08 17:51:15.329 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 885 ms
 
@@ -271,13 +271,13 @@ Total in 18 ms
 
 Change detected, rebuilding site (#42).
 2025-11-08 18:05:08.379 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 997 ms
 
 Change detected, rebuilding site (#43).
 2025-11-08 18:05:17.877 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 928 ms
 
@@ -287,7 +287,7 @@ Asset changed /an-algorithm-for-fusing-permutation-defects-in-multi-layer-anyon-
 Source changed /projects/fusion-of-permutation-defects/an-algorithm-for-fusing-permutation-defects.mp4
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Total in 78 ms
-adding created directory to watchlist /Users/taydenwhite/taydenwhite.github.io/content/en/Projects/J&J Internship Wrap-up
+adding created directory to watchlist /Users/jakecardwell/jakecardwell.github.io/content/en/Projects/J&J Internship Wrap-up
 
 Change detected, rebuilding site (#45).
 2025-11-08 18:07:37.859 -0500
@@ -317,7 +317,7 @@ Total in 108 ms
 
 Change of config file detected, rebuilding site (#49).
 2025-11-08 18:10:03.360 -0500
-WARN  skipping template file "/Users/taydenwhite/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
+WARN  skipping template file "/Users/jakecardwell/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/google/docsy@v0.10.0/layouts/_default/_markup/td-render-heading.html": unrecognized render hook template
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Rebuilt in 1003 ms
 
@@ -330,7 +330,7 @@ Total in 85 ms
 Change detected, rebuilding site (#51).
 2025-11-08 18:10:47.859 -0500
 Source changed /projects/fusion-of-permutation-defects/_index.md
-ERROR Rebuild failed: process: "/Users/taydenwhite/taydenwhite.github.io/content/en/Projects/Fusion of Permutation Defects/_index.md:13:1": failed to extract shortcode: template for shortcode "embed-video" not found
+ERROR Rebuild failed: process: "/Users/jakecardwell/jakecardwell.github.io/content/en/Projects/Fusion of Permutation Defects/_index.md:13:1": failed to extract shortcode: template for shortcode "embed-video" not found
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Total in 1 ms
 
@@ -338,7 +338,7 @@ Change detected, rebuilding site (#52).
 2025-11-08 18:10:56.860 -0500
 Source changed /projects/fusion-of-permutation-defects/_index.md
 Source changed /projects/j&j-internship-wrap-up/_index.md
-ERROR Rebuild failed: process: "/Users/taydenwhite/taydenwhite.github.io/content/en/Projects/J&J Internship Wrap-up/_index.md:9:1": failed to extract shortcode: template for shortcode "embed-video" not found
+ERROR Rebuild failed: process: "/Users/jakecardwell/jakecardwell.github.io/content/en/Projects/J&J Internship Wrap-up/_index.md:9:1": failed to extract shortcode: template for shortcode "embed-video" not found
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Total in 2 ms
 
