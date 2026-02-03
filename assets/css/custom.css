@@ -44,12 +44,7 @@
   }
 
 .td-home {
-  background-color: #000;
-  background-image: url("/images/istockphoto-1190582403-612x612.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: url("/images/200w.gif") center/cover no-repeat fixed;
 }
 
 .td-home .td-main {

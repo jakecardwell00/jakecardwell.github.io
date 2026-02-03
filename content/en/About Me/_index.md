@@ -20,8 +20,8 @@ no_list: true
   display: flex;
   align-items: flex-start;
   gap: 3rem;
-  background: #2d3748;
-  border: 2px solid #4a5568;
+  background: transparent;
+  border: none;
   border-radius: 1rem;
   padding: 2.5rem;
   margin-bottom: 3rem;
@@ -67,8 +67,8 @@ no_list: true
 }
 
 .experience-card {
-  background: #2d3748;
-  border: 2px solid #4a5568;
+  background: transparent;
+  border: none;
   border-radius: 1rem;
   padding: 2rem;
   display: flex;
