@@ -48,24 +48,21 @@
 }
 
 .td-home .td-main {
-  background-color: #ffffff;
+  background: transparent;
 }
 
 .home-section {
   padding: 4rem 0;
 }
 
-.home-section--white {
-  background: url("/images/section-white.png") center/cover no-repeat;
+  background: transparent;
   color: #111111;
 }
 
-.home-section--blue {
-  background: url("/images/section-blue.png") center/cover no-repeat;
+  background: transparent;
   color: #f4f6fb;
 }
 
-.home-section__image-placeholder {
   width: 100%;
   min-height: 220px;
   border: 2px dashed rgba(255, 255, 255, 0.4);
@@ -76,13 +73,12 @@
   font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  background: rgba(255, 255, 255, 0.08);
+  background: transparent;
   color: rgba(255, 255, 255, 0.8);
 }
 
-.home-section--white .home-section__image-placeholder {
   border-color: rgba(0, 0, 0, 0.15);
-  background: rgba(0, 0, 0, 0.03);
+  background: transparent;
   color: rgba(0, 0, 0, 0.6);
 }
 

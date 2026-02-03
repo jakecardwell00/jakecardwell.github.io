@@ -16,12 +16,11 @@ no_list: true
   background: url('/images/200w.gif') center/cover no-repeat fixed;
 }
 
-.contact-module {
   display: flex;
   align-items: flex-start;
   gap: 3rem;
-  background: transparent;
-  border: none;
+  background: #2d3748;
+  border: 2px solid #4a5568;
   border-radius: 1rem;
   padding: 2.5rem;
   margin-bottom: 3rem;
@@ -66,9 +65,8 @@ no_list: true
   margin-top: 2rem;
 }
 
-.experience-card {
-  background: transparent;
-  border: none;
+  background: #2d3748;
+  border: 2px solid #4a5568;
   border-radius: 1rem;
   padding: 2rem;
   display: flex;
