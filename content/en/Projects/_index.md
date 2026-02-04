@@ -179,18 +179,18 @@ cascade:
     <!-- Rainmaker Technology -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/rainmaker_cover.jpeg" class="item-preview" alt="Rainmaker Technology UAV System">
+        <img src="/jakecardwell.github.io/images/rainmaker_cover.jpeg" class="item-preview" alt="Rainmaker Technology UAV System">
         <div class="item-details">
           <h3>Rainmaker Technology – Systems Engineering Intern</h3>
           <p>Designed compressor impellers for UAV aerosol dispersion systems deployed on 120+ drones. Created aerospace-grade technical drawings with GD&T and managed manufacturing coordination.</p>
-          <a href="/Rainmaker/" class="item-link">View Details →</a> 
+          <a href="/jakecardwell.github.io/Rainmaker/" class="item-link">View Details →</a> 
         </div>
       </div>
     </div>
     <!-- Purdue Hybrid Rocket Team -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/Hybrids.jpeg" class="item-preview" alt="Purdue Hybrid Rocket Team">
+        <img src="/jakecardwell.github.io/images/Hybrids.jpeg" class="item-preview" alt="Purdue Hybrid Rocket Team">
         <div class="item-details">
           <h3>Purdue Hybrid Rocket Team – Propulsion Engineer</h3>
           <p>Designed and manufactured aluminum rocket components targeting 50,000 ft altitude. Developed fuel grain decay simulations and presented at PDR/CDR reviews with aerospace engineers.</p>
@@ -201,7 +201,7 @@ cascade:
     <!-- Portland Van -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/portland-van-preview.jpeg" class="item-preview" alt="Portland Van Sprinter Racks">
+        <img src="/jakecardwell.github.io/images/portland-van-preview.jpeg" class="item-preview" alt="Portland Van Sprinter Racks">
         <div class="item-details">
           <h3>Portland Van – Sprinter Racks Manufacturer</h3>
           <p>Helped maintain a small business manufacturing aluminum tube racks for Sprinter vans. Managed sawing, welding, and powder coating processes, and facilitated vendor connections for laser cutting. Successfully sold the company for $50,000 including inventory, brand, and website assets.</p>
@@ -214,7 +214,7 @@ cascade:
     <!-- Purdue SLICE -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/418_box.png" class="item-preview" alt="Purdue SLICE Zero-G Experiment">
+        <img src="/jakecardwell.github.io/images/418_box.png" class="item-preview" alt="Purdue SLICE Zero-G Experiment">
         <div class="item-details">
           <h3>Purdue SLICE – Zero-G Fluid Experiment</h3>
           <p>Engineered CAD system for human-tended zero-gravity flight experiment with Virgin Galactic. Automated 300mL flow-through system using Arduino control and performed FEA on composite structures.</p>
@@ -225,7 +225,7 @@ cascade:
     <!-- Senior Design -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/451_CAD.jpeg" class="item-preview" alt="Senior Design Fixed-Wing UAV">
+        <img src="/jakecardwell.github.io/images/451_CAD.jpeg" class="item-preview" alt="Senior Design Fixed-Wing UAV">
         <div class="item-details">
           <h3>Senior Design – Fixed-Wing UAV</h3>
           <p>Co-led CAD design of remotely piloted aircraft optimized for structural integrity and manufacturability. Performed wing loading, shear/bending, and aerodynamic analysis for flight.</p>
@@ -236,7 +236,7 @@ cascade:
     <!-- Golf Cart -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/Golfcart_motor.jpeg" class="item-preview" alt="Remote-Controlled Golf Cart">
+        <img src="/jakecardwell.github.io/images/Golfcart_motor.jpeg" class="item-preview" alt="Remote-Controlled Golf Cart">
         <div class="item-details">
           <h3>Remote-Controlled Golf Cart</h3>
           <p>Designed and built a remote-controlled golf cart using C++ with Arduino, motor drivers, nRF24L01 radio, and motion tracking sensors. Combined hardware and software development in a collaborative project.</p>
