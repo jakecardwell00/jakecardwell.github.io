@@ -159,7 +159,7 @@ title: Jake Cardwell
           <p style="color: #111111; font-family: Verdana, sans-serif; font-size: 1.2rem; margin-bottom: 1rem;">
             Interested in my professional experience and technical projects?
           </p>
-          <a href="/projects/" style="display: inline-block; background-color: #0077b5; color: white; padding: 0.75rem 2rem; border-radius: 2rem; text-decoration: none; font-weight: bold; font-size: 1.1rem; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0, 119, 181, 0.3);" 
+          <a href="jakecardwell00.github.io/jakecardwell.github.io/projects/" style="display: inline-block; background-color: #0077b5; color: white; padding: 0.75rem 2rem; border-radius: 2rem; text-decoration: none; font-weight: bold; font-size: 1.1rem; transition: all 0.3s ease; box-shadow: 0 4px 12px rgba(0, 119, 181, 0.3);" 
              onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 16px rgba(0, 119, 181, 0.4)';" 
              onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0, 119, 181, 0.3)';">
             View My Full Experience →
