@@ -183,14 +183,14 @@ cascade:
         <div class="item-details">
           <h3>Rainmaker Technology – Systems Engineering Intern</h3>
           <p>Designed compressor impellers for UAV aerosol dispersion systems deployed on 120+ drones. Created aerospace-grade technical drawings with GD&T and managed manufacturing coordination.</p>
-          <a href="/projects/fusion-of-permutation-defects/Rainmaker/" class="item-link">View Details →</a> 
+          <a href="/Rainmaker/" class="item-link">View Details →</a> 
         </div>
       </div>
     </div>
     <!-- Purdue Hybrid Rocket Team -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/images/Hybrids.jpeg" class="item-preview" alt="Purdue Hybrid Rocket Team">
+        <img src="/static/images/Hybrids.jpeg" class="item-preview" alt="Purdue Hybrid Rocket Team">
         <div class="item-details">
           <h3>Purdue Hybrid Rocket Team – Propulsion Engineer</h3>
           <p>Designed and manufactured aluminum rocket components targeting 50,000 ft altitude. Developed fuel grain decay simulations and presented at PDR/CDR reviews with aerospace engineers.</p>
