@@ -51,7 +51,6 @@ title: Jake Cardwell
   </div>
 </div>
 
-
 <section style="padding: 1rem 0;">
   <div style="position: relative; overflow: hidden; margin: 0 1rem; padding: 3rem; border-radius: 1.5rem; background: white; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <img src="/images/section-grey.png" alt="" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 0; border-radius: 1.5rem;">
