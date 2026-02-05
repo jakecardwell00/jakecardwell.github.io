@@ -190,7 +190,7 @@ cascade:
     <!-- Purdue Hybrid Rocket Team -->
     <div class="exp-proj-item">
       <div class="item-content">
-        <img src="/static/images/Hybrids.jpeg" class="item-preview" alt="Purdue Hybrid Rocket Team">
+        <img src="/images/Hybrids.jpeg" class="item-preview" alt="Purdue Hybrid Rocket Team">
         <div class="item-details">
           <h3>Purdue Hybrid Rocket Team – Propulsion Engineer</h3>
           <p>Designed and manufactured aluminum rocket components targeting 50,000 ft altitude. Developed fuel grain decay simulations and presented at PDR/CDR reviews with aerospace engineers.</p>
