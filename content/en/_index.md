@@ -42,7 +42,7 @@ title: Jake Cardwell
 
 
 <div style="position: relative; width: 110%; height: 320px; overflow: hidden; margin-left: -5%;">
-  <img src="jakecardwell00.github.io/images/istockphoto-1190582403-2048x2048.jpg" alt="Banner" style="position: absolute; top: 0; left: -5%; width: 110%; height: 640px; object-fit: cover; object-position: top; z-index: 0;">
+  <img src="/images/istockphoto-1190582403-2048x2048.jpg" alt="Banner" style="position: absolute; top: 0; left: -5%; width: 110%; height: 640px; object-fit: cover; object-position: top; z-index: 0;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <h1 style="color: white; font-size: 3rem; font-weight: bold; text-shadow: 0 2px 8px rgba(0,0,0,0.5); margin-bottom: 1.5rem;">Jake Cardwell</h1>
     <a class="btn btn-lg btn-social me-3 mb-4 btn-linkedin" href="https://linkedin.com/in/jake-cardwell-522634291" target="_blank" style="margin-bottom: 0;">
